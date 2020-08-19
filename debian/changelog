@@ -3,7 +3,7 @@ nymea-remoteproxy (0.1.10) xenial; urgency=medium
   [ Simon Stürz ]
   * Allow multiple tunnels for one valid token
 
- -- Jenkins <jenkins@nymea.io>  Tue, 02 Jun 2020 21:01:32 +0200
+ -- Jenkins <jenkins@nymea.io>  Wed, 19 Aug 2020 21:56:47 +0200
 
 nymea-remoteproxy (0.1.9) xenial; urgency=medium
 
